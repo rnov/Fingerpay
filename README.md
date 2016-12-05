@@ -15,4 +15,4 @@ Fingerpay is a final last year project which aims to provide a realistic PoC of 
 
 ![myimage-alt-tag](https://cloud.githubusercontent.com/assets/6912741/20408664/c112301e-ad16-11e6-8c81-38d7938c5471.png)
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~rnov/24.embed?share_key=WxoHGLDbWbPdLzy8iVHWYG"></iframe>
+![myimage-alt-tag](<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~rnov/24.embed?share_key=WxoHGLDbWbPdLzy8iVHWYG"></iframe>)
